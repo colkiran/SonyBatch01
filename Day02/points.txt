@@ -1,0 +1,145 @@
+Strings
+-------
+
+find, replace, count, split, maketrans, translate, format
+
+Data Structures 
+---------------
+1. Lists
+2. Dictionary
+3. Tuples
+4. Sets
+
+
+Lists
+-----
+lists are similar to arrays
+
+
+What are arrays?
+1. its a collection of homogenous data
+
+2. memory allocation is contagious
+
+
+Lists
+-----
+1. lists are collection of heterogenous data
+2. memory allocation is not contagious
+3. they are ordered collection = [1, 2, 3, 4, 5]
+4. lists are mutable
+5. lists are enclosed in [ ]
+
+functions to manipulate strings
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+to add element
+----------------
+1. append
+2. extend
+3. insert
+
+to remove values
+----------------
+1. remove
+2. pop
+3. clear
+
+1. index
+2. count
+--------------------
+3. copy
+4. sort 
+--------------------
+5. reverse
+
+
+Hard Work Pays
+---------------
+
+https://pythontutor.com/visualize.html#mode=edit
+
+Dictionary
+----------
+they are also called as associative arrays
+
+
+ 0    1    2    3    4    5
+'a', 'b', 'c', 'd', 'e', 'f'
+
+
+{0: 'a', 1: 'b', 2": 'c', 3: 'd', 4: 'e', 5: 'f'}
+
+0, 1, 2, 3, 4, 5 = keys
+'a', 'b', 'c', 'd', 'e', 'f' - values
+
+
+Keys are user defined
+Keys are always unique
+unordered collection
+they are mutable
+dictionaries are enclosed in { }
+
+functions to manipulate dictionary
+
+clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuple
+-----
+immutable lists
+tuples are enclosed ()
+
+
+
+constructor = __init__ -> double under score => dunder_init
+
+__eq__
+__gt__
+	
+
+Sets
+----
+1. collection of unique values
+2. unordered collection
+3. not sub scriptable 
+4. immutable
+5. enclosed in {1, 2, 3, 4, 'a', 'b', 'c'}
+
+
+
+
+Assignment
+-----------
+
+sort these months as we find it in calendar
+
+months = ['dec', 'aug', 'nov', 'jan', 'sep', 'apr', 'oct' , 'mar', 'may', 'jul', 'feb', 'jun']
+
+
+write a code to create a identity matrix
+
+write a code to create a magic matrix
+https://www.youtube.com/watch?v=GYBr8n-_Rq4&t=183s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  , 
+
+
+
+
+
