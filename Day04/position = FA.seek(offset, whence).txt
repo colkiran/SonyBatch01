@@ -1,0 +1,112 @@
+position = FA.seek(offset, whence)
+
+offset - no of bytes
+
+whence = 
+
+0	BOF
+1	Current Position
+2	EOF
+
+FA.seek(50, 0)
+FA.seek(85, 1) = 135vb 
+
+EMP.csv (use data structures)
+-----------------------------
+
+Count of males and females
+
+unique list of departments
+
+unique list of designations
+
+sum of all salaries
+
+
+list = in operator = 
+
+r+  - read and write
+w+  - write and read
+a+  - append and read
+
+
+iterators - any object that has __iter__ can give us
+			 __iter__, __next__
+generators
+coroutine
+
+
+Packages and Modules
+--------------------
+
+Modules ?
+---------
+python modules are same as libraries
+
+mymodule.py
+
+import mymodule
+---------------
+.py => .pyc file
+
+python -m filename - create a folder __pycache__
+
+sample.py => sample.cpyton314.pyc
+
+O17FileRead.py = O17FileRead.cpython-311.pyc
+
+
+Package
+-------
+folder or directory where one or more modules are stored 
+
+__init__.py 
+
+
+import mymodule
+import mymodule as m
+
+from mymodule import function, class
+
+from package import mymodule
+from package.mymodule import function, class
+
+from package import *
+
+pyproject.toml
+
+
+
+
+
+
+
+
+
+
+
+import sys
+
+sys.path = []
+
+python native path - python.exe 
+-------------------------------
+libpath.pth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

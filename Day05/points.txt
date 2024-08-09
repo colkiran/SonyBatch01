@@ -1,0 +1,110 @@
+OOPs
+----
+What is OOPS?
+
+Why do we need OOPS
+
+1. Inheritance - 
+
+Bank - Withdraw
+
+1. Self Cheque			90's
+2. DD
+
+2001 - 2002
+-----------
+Debit -		security, authentication
+
+Debit Card (Withdraw)
+
+2005 - 2006 
+-----------
+Online Transaction (Debit Card)
+
+
+2011 UPI(OT)
+----
+
+2. Polymorphism - 
+
+3. abstraction - 
+
+4. encapsulation
+
+
+Class Attribute or Class Variable
+---------------------------------
+class name is used to access class attributes 
+
+
+
+Write decorator function outside the above class, decorator function name will be ‘my_company_decorator’. Use this decorator on top of all 3 get-methods deﬁned inside the class. Details of the decorator has been provided below these examples. Please check
+
+Expected output:
+
+E1.get_emp_name() Should print:
+
+Company Name Is: “XYZ Company” ‘emp-1’
+Address: XYZ Address
+
+E1.get_emp_id() Should print:
+
+Company Name Is: “XYZ Company” 100
+Address: XYZ Address
+
+
+E1.get_emp_salary() Should print:
+
+Company Name Is: “XYZ Company” 1000
+Address: XYZ Address
+
+
+Decorator Requirement: As we observed above, all get methods are using some common functionality which is
+Company Name Is: “XYZ Company” Address: XYZ Address
+Write a decorator for this common functionality and make use in all get methods
+
+-----------------------------------------
+
+Write 2 class-methods where one method to set company head name
+and another method to get company head name	
+
+Example:
+EmployeeClass.set_company_head_name(‘head-1’)
+print(EmployeeClass.get_company_head_name) output ‘head-1’
+
+-----------------------------------------
+
+def CreatePlayer(cls, name, dob)
+
+
+------------------------------------------
+
+overload few operators
+----------------------
+equal to is mandatory 	==
+
+greater than		>
+
+
+Operator overloading  for all arithmetic Operators
+
+sum - +
+diff - -
+prod - *
+quot = /
+floor = //   
+
+Abstract Class
+--------------
+
+
+
+
+
+
+
+
+
+
+
+

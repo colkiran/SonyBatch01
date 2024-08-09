@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/sony_package/sony.py
+src/sony_package.egg-info/PKG-INFO
+src/sony_package.egg-info/SOURCES.txt
+src/sony_package.egg-info/dependency_links.txt
+src/sony_package.egg-info/top_level.txt
